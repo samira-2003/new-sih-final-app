@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "661621922390",
+    "project_id": "stimutech-wind-turbine-540a2",
+    "storage_bucket": "stimutech-wind-turbine-540a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661621922390:android:8227c049be33ec3ef1f9f7",
+        "android_client_info": {
+          "package_name": "com.example.first_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH1eZQONiR6zZqe2qEYHw0Ms0p5LDnkUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
